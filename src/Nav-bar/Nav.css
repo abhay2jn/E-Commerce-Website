@@ -6,6 +6,7 @@ nav{
     padding : 20px;
     z-index: 999;
     margin-left: 2rem;
+    border: none;
 }
 input {
     padding : 12px 20px;
