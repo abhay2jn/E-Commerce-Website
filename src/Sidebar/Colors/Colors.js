@@ -46,7 +46,7 @@ function Colors({handleChange}) {
     />
     <label className="sidebar-label-container">
       <input type="radio" onChange={handleChange} value="white" />
-      <span className="checkmark" style={{background: "white", border: "2px solid black"}}></span>
+      <span className="checkmark" style={{background: "white", border: "2px solid black"}}></span>White
     </label>
     </div>
   )
