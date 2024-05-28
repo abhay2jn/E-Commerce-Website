@@ -10,12 +10,12 @@ function Card({img,title,star,reviews,prevPrice,newPrice}) {
           <h3 className="card-title">{title}</h3>
           <section className="card-reviews">
             {star}{star}{star}{star}{star}
-            <span className="Total-Reviews">2</span>
+            <span className="Total-Reviews">{reviews}</span>
           </section>
           <section className="card-price">
             <div className="price">
-              <del>$300</del>  
-              $200
+              <del>{prevPrice}</del>  
+              {newPrice}
             </div>
             <div className="bag">
               <IoBagAdd className="bag-icon"/>
