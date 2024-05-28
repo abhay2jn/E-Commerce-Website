@@ -11,26 +11,26 @@ function Price({handleChange}) {
     </label>
     <Input 
       handleChange={handleChange}
-      value={50}
-      title="$0 - $50"
+      value={500}
+      title="₹0 - ₹500"
       name="test2"
     />
     <Input 
       handleChange={handleChange}
-      value={100}
-      title="$50 - $100"
+      value={1000}
+      title="₹500 -₹1000"
       name="test2"
     />
     <Input 
       handleChange={handleChange}
-      value={200}
-      title="$100 - $200"
+      value={2000}
+      title="₹1000 - ₹2000"
       name="test2"
     />
     <Input 
       handleChange={handleChange}
-      value={250}
-      title="Over $200"
+      value={2500}
+      title="Over ₹2000"
       name="test2"
     />
     </div>

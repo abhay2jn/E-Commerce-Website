@@ -11,13 +11,6 @@ function Colors({handleChange}) {
     </label>
     <Input 
       handleChange={handleChange}
-      value="white"
-      title="White"
-      name="test3"
-      color="white"
-    />
-    <Input 
-      handleChange={handleChange}
       value="black"
       title="Black"
       name="test3"
