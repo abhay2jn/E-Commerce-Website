@@ -316,6 +316,17 @@ const data = [
     color: "black",
     category: "flats",
   },
+  {
+    img : "https://m.media-amazon.com/images/I/61QF80zLUsL._SY695_.jpg",
+    title: "adidas Mens Fluidflow",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(2222 reviews)",
+    prevPrice: "₹22,222",
+    newPrice: "2500",
+    company: "Adidas",
+    color: "white",
+    category: "Sneakers",
+  }
 ];
 
 export default data;
