@@ -11,6 +11,7 @@ function Recommended({handleClick}) {
           <Button onClickHandler={handleClick} value="Nike" title="Nike" />
           <Button onClickHandler={handleClick} value="Adidas" title="Adidas" />
           <Button onClickHandler={handleClick} value="Puma" title="Puma" />
+          <Button onClickHandler={handleClick} value="Merrell" title="Merrell" />
           <Button onClickHandler={handleClick} value="Vans" title="Vans" />
         </div>
       </div>

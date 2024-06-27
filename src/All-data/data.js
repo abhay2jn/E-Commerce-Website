@@ -13,6 +13,17 @@ const data = [
     category: "sneakers",
   },
   {
+    img: "https://m.media-amazon.com/images/I/71QyxJ8v-NL._SX695_.jpg",
+    title: "Saucony Women's Evolution",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "₹1,40,00",
+    newPrice: "2500",
+    company: "Merrell",
+    color: "black",
+    category: "sneakers",
+  },
+  {
     img: "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
     title: "Nike Air Vapormax Plus",
     star: <AiFillStar className="ratings-star" />,
@@ -23,7 +34,6 @@ const data = [
     color: "red",
     category: "sneakers",
   },
-
   {
     img: "https://m.media-amazon.com/images/I/51+P9uAvb1L._AC_UY695_.jpg",
     title: "Nike Waffle One Sneaker",

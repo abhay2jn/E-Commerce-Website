@@ -1,4 +1,3 @@
-import { LiaStarSolid } from "react-icons/lia";
 import { IoBagAdd } from "react-icons/io5";
 
 function Card({img,title,star,reviews,prevPrice,newPrice}) {
