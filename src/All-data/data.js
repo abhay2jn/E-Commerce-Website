@@ -2,6 +2,17 @@ import { AiFillStar } from "react-icons/ai";
 
 const data = [
   {
+    img: "https://s7d4.scene7.com/is/image/WolverineWorldWide/MRLM-J037501-041024-S24-000?$dw-pdp-primary$",
+    title: "Men's Moab Speed 2®",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "₹1,40,00",
+    newPrice: "2500",
+    company: "Merrell",
+    color: "black",
+    category: "sneakers",
+  },
+  {
     img: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/38debae04ae44d63aa88af2301524e7d_9366/Pharrell_Williams_NMD_S1_RYAT_Shoes_Green_IE4686_01_standard.jpg",
     title: "Pharrell Williams NMD S1",
     star: <AiFillStar className="ratings-star" />,
