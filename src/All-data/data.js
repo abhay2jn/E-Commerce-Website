@@ -13,14 +13,14 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/38debae04ae44d63aa88af2301524e7d_9366/Pharrell_Williams_NMD_S1_RYAT_Shoes_Green_IE4686_01_standard.jpg",
-    title: "Pharrell Williams NMD S1",
+    img: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d120a1f8adf3494dbd04191c849b06b5_9366/Ozthemis_Shoes_White_IG5660_01_standard.jpg",
+    title: "OZTHEMIS SHOES",
     star: <AiFillStar className="ratings-star" />,
     reviews: "(123 reviews)",
     prevPrice: "₹24,999",
     newPrice: "2000",
     company: "Adidas",
-    color: "green",
+    color: "white",
     category: "sneakers",
   },
   {
