@@ -249,6 +249,17 @@ const data = [
     category: "sandals",
   },
   {
+    img: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d15ba5cf78a64a6e9df38a08bfb3d726_9366/Adistar_Cushion_Shoes_Grey_IF6528_04_standard.jpg",
+    title: "ADISTAR CUSHION SHOES",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "₹2,40,00",
+    newPrice: "2000",
+    company: "Adidas",
+    color: "white",
+    category: "sneakers",
+  },
+  {
     img: "https://m.media-amazon.com/images/I/61bncQ44yML._AC_UX695_.jpg",
     title: "Chunky High Heel",
     star: <AiFillStar className="ratings-star" />,
