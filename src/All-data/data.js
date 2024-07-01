@@ -24,6 +24,17 @@ const data = [
     category: "sneakers",
   },
   {
+    img: "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/373108/72/sv01/fnd/IND/fmt/png/X-Ray-2-Square-Unisex-Sneakers",
+    title: "X-Ray 2 Square Unisex",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "₹4,799",
+    newPrice: "1000",
+    company: "Puma",
+    color: "white",
+    category: "sneakers",
+  },
+  {
     img: "https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg",
     title: "Nike Air Monarch IV",
     star: <AiFillStar className="ratings-star" />,
