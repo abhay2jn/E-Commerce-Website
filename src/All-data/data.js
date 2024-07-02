@@ -111,7 +111,17 @@ const data = [
     color: "black",
     category: "flats",
   },
-
+  {
+    img: "https://s7d4.scene7.com/is/image/WolverineWorldWide/MRLM-J005635-030823-F23-000?$dw-hi-res$",
+    title: "Moab 3 Mid X Jeep",
+    star: <AiFillStar className="ratings-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "₹14,000",
+    newPrice: "2000",
+    company: "Merrell",
+    color: "green",
+    category: "sneakers",
+  },
   {
     img: "https://m.media-amazon.com/images/I/61V9APfz97L._AC_UY695_.jpg",
     title: "Loafer Flats",
